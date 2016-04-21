@@ -1,5 +1,5 @@
 import React from 'react'
-import {ListGroup} from'react-bootstrap'
+import {ListGroup} from 'react-bootstrap'
 import {Talk, TalkPojso} from './talk.js'
 
 /**
