@@ -1,0 +1,28 @@
+.talk-group {
+	width: 700;
+    margin-right: auto; 
+    margin-left: auto;
+    margin-top: 100;
+}
+
+.talk-group-title {
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.talk {
+	margin: 25;
+}
+
+.talk-title {
+	font-weight: bold;
+}
+
+.talk-panel {
+	border: none;
+	background-color: lightgray;
+	margin: 0;
+}
+
+
